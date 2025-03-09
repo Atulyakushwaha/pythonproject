@@ -7,7 +7,7 @@ if unit.upper()=="K":
     print(f"your weight is : {round(weight,1)} {uni}")
 elif unit.upper()=="L":
     weight=weight*2.20
-    uni="kgs"
+    uni="k"
     print(f"your weight is : {round(weight,1)} {uni}")
 else:
     print(f"{unit} was not vaild ")
