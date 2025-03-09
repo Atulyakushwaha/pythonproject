@@ -34,7 +34,7 @@ def print_slot_machine(columns):
             print(columns[row],end=" | ")
          else:
             print(columns[row],end="")
-      print("\n")      
+      print()      
 
 
 def deposit():
