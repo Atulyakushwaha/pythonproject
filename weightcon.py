@@ -10,4 +10,6 @@ elif unit.upper()=="L":
     uni="k"
     print(f"your weight is : {round(weight,1)} {uni}")
 else:
+    
     print(f"{unit} was not vaild ")
+
