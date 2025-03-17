@@ -31,6 +31,6 @@ if c == 'yes':
         print(f"your item {item2} is been added to order") 
         print(total)
 else : 
-     print("thanks for shoping")
+     print("thanks for shoping from this shit")
 
 
